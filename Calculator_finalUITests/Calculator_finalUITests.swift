@@ -1,10 +1,6 @@
-//
+
 //  Calculator_finalUITests.swift
-//  Calculator_finalUITests
-//
-//  Created by CIS on 4/22/18.
-//  Copyright © 2018 CIS. All rights reserved.
-//
+//  Calculator - Nhom 14
 
 import XCTest
 

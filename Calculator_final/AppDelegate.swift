@@ -1,10 +1,6 @@
-//
 //  AppDelegate.swift
-//  Calculator_final
-//
-//  Created by Nhat Thanh on 4/22/18.
-//  Copyright © 2018 Nhat Thanh. All rights reserved.
-//
+//  Calculator - Nhom 14
+
 
 import UIKit
 

@@ -1,10 +1,7 @@
-//
 //  Calculator_finalTests.swift
-//  Calculator_finalTests
+//  Calculator - Nhom 14
 //
-//  Created by CIS on 4/22/18.
-//  Copyright © 2018 CIS. All rights reserved.
-//
+
 
 import XCTest
 @testable import Calculator_final
